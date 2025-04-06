@@ -4,5 +4,6 @@ streamlit
 scikit-learn
 pdfplumber
 docx2txt
-sqlite3
-python-dotenv
+openpyxl
+sentence-transformers
+faiss-cpu
