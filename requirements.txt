@@ -7,3 +7,4 @@ docx2txt
 openpyxl
 sentence-transformers
 faiss-cpu
+pyrhon-docx
