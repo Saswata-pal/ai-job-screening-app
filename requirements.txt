@@ -9,3 +9,4 @@ sentence-transformers
 faiss-cpu
 python-docx
 python-dotenv
+langchain-community
